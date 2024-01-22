@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 0 32px;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+#banner {
+  padding-top: 50px;
+}
+#banner .banner {
+  padding-top: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+}
+#banner .banner .banner-box .banner-image {
+  max-width: 100%;
+}
+#banner .banner .banner-box .banner-image img {
+  max-width: 100%;
+}/*# sourceMappingURL=style.css.map */

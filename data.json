@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "image": "assets/images/intro-01.jpg.webp",
+      "title": "Aelicious Foot",
+      "description": "Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros."
+    },
+    {
+      "id": 2,
+      "image": "assets/images/intro-02.jpg.webp",
+      "title": "Delicious Foot",
+      "description": "Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros."
+    },
+    {
+      "id": 3,
+      "image": "assets/images/intro-04.jpg.webp",
+      "title": "RED WINES YOU LOVE",
+      "description": "Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros."
+    }
+  ]
+}
